@@ -1,9 +1,6 @@
 ### Hi, I'm Joe 👋
 
-I work in **GRC** — governance, risk & compliance (I'm a **CISA**) — and unlike
-most people in the field, **I build the systems behind the paperwork.** Policies
-are easy to write; *proving* they hold is the hard part, so I write the code that
-produces the evidence.
+I work in **GRC** — governance, risk & compliance (I'm a **CISA**) 
 
 I'm especially interested in where **AI meets compliance**: using AI fluently as
 a builder, while staying clear-eyed about where it belongs in a regulated system
@@ -39,5 +36,5 @@ lessons to the projects it spawns.
 **How I think:** determinism over vibes · auditability by default · humans in
 control of AI · tests that prove the thing.
 
-📫 **Let's talk** — [LinkedIn](https://www.linkedin.com/in/joe-lyon-cisa/) · open to GRC + AI roles
+📫 **Let's talk** — [LinkedIn](https://www.linkedin.com/in/joe-lyon-cisa/)
 🎧 Off the clock, I make music as **Drifthaven** ([Spotify](https://open.spotify.com/artist/0kpM9hgEGyguHHkCjjPdvX) · [SoundCloud](https://soundcloud.com/drifthaven))
