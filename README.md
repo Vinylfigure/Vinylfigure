@@ -17,15 +17,6 @@ functions; **zero LLM in the runtime**, on purpose.
 
 `Python` · `GCP` · `BigQuery` · `OSCAL` · `SOC 2` · `FedRAMP`
 
-#### 🤖 [Aegis Sentinel](https://github.com/Vinylfigure/aegis-sentinel) — agentic GRC engineering
-The agentic complement to Aegis: control checks run by agents, but every check
-emits a **deterministic, auditable verdict record** — and test agents exercise
-and validate the compliance agents themselves. Built on the Janus scaffold, so
-the repo **learns from its own sessions**.
-> Agents do the legwork; pure-function verdicts keep the decision provable.
-
-`Python` · `Claude Code` · `Agentic AI` · `GRC engineering`
-
 #### ✍️ [Intent IDE](https://github.com/Vinylfigure/intent-ide) — human-in-the-loop AI document review
 Scoped AI agents make **targeted, auditable, human-approved** edits instead of
 regenerating whole documents. A multi-agent debate system counters LLM
